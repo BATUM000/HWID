@@ -1,3 +1,3 @@
 # PERMISSION GRANTED HWID'S
 ------------------------------------------------------
-verified: Giray SOCKET: (girayyılmaz)
+verified: Giray SOCKET: (giraybaba82)
